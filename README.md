@@ -1,5 +1,6 @@
+[CAS]: https://github.com/cas-x/cas-server
 # ngx_http_cas_module
-A component for nginx module integrated with [CAS](https://github.com/detailyang/cas-server)
+A component for nginx module integrated with [CAS]
 
 
 # ngx http barcode module
@@ -19,7 +20,7 @@ Table of Contents
 How-To-Use
 ----------------
 
-ngx_http_cas_module is the same as ngx_http_auth_module but for [CAS](https://github.com/detailyang/cas-server)
+ngx_http_cas_module is the same as ngx_http_auth_module but for [CAS]
 For example:
 
 ```bash
