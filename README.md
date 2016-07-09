@@ -3,7 +3,7 @@
 A component for nginx module integrated with [CAS]
 
 
-# ngx http barcode module
+# ngx_http_cas_module
 ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build](https://api.travis-ci.org/detailyang/cas-nginx_http_auth_module.svg)](https://travis-ci.org/detailyang/cas-nginx_http_auth_module)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/cas-nginx_http_auth_module/master/LICENSE)[![release](https://img.shields.io/github/release/detailyang/cas-nginx_http_auth_module.svg)](https://github.com/detailyang/cas-nginx_http_auth_module/releases)
 
 
