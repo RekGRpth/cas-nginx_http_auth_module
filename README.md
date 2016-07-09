@@ -1,10 +1,12 @@
 [CAS]: https://github.com/cas-x/cas-server
-# ngx_http_cas_module
-A component for nginx module integrated with [CAS]
-
+[MIT]: https://github.com/detailyang/ybw/blob/master/licenses/MIT
 
 # ngx_http_cas_module
+
 ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build](https://api.travis-ci.org/detailyang/cas-nginx_http_auth_module.svg)](https://travis-ci.org/detailyang/cas-nginx_http_auth_module)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/cas-nginx_http_auth_module/master/LICENSE)[![release](https://img.shields.io/github/release/detailyang/cas-nginx_http_auth_module.svg)](https://github.com/detailyang/cas-nginx_http_auth_module/releases)
+
+
+A component for nginx module integrated with [CAS]
 
 
 Table of Contents
@@ -80,6 +82,5 @@ Author
 
 License
 -------
-ngx_http_barcode is licensed under the [MIT] license.
+ngx_http_cas_module is licensed under the [MIT] license.
 
-[MIT]: https://github.com/detailyang/ybw/blob/master/licenses/MIT
