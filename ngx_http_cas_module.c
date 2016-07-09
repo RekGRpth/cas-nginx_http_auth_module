@@ -110,8 +110,6 @@ ngx_http_cas_handler(ngx_http_request_t *r)
         h->value.data = (u_char *)CAS_HEADER_AUTHORIZATION;
         r->headers_out.www_authenticate = h;
 
-        ngx_log_error(NGX_LOG_ERR, r->connection->log, 0, "add header");
-
         return NGX_HTTP_UNAUTHORIZED;
     }
 
