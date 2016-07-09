@@ -39,7 +39,7 @@ location = /auth {
 Requirements
 ------------
 
-ngx_http_barcode requires the following to run:
+ngx_http_cas_module requires the following to run:
 
  * [nginx](http://nginx.org/) or other forked version like [openresty](http://openresty.org/)、[tengine](http://tengine.taobao.org/)
  * [CAS](https://github.com/detailyang/cas-server)
